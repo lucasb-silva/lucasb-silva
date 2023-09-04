@@ -63,9 +63,7 @@
 <!-- <img style="margin: 10px" src="assets/nodejs.svg" alt="Node.js" title="Node.js" height="50" /> -->
 
 </td>
-</tr>
 
-<tr>
 <td align="center" valign="top">
 
 ### Database

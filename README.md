@@ -60,7 +60,7 @@
 
 <img style="margin: 10px" src="assets/java.svg" alt="Java" title="Java" height="50" />
 <img style="margin: 10px" src="assets/spring.svg" alt="Spring" title="Spring" height="50" />
-<!-- <img style="margin: 10px" src="assets/nodejs.svg" alt="Node.js" title="Node.js" height="50" /> -->
+<img style="margin: 10px" src="assets/nodejs.svg" alt="Node.js" title="Node.js" height="50" />
 
 </td>
 

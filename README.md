@@ -73,6 +73,23 @@
 
 </td>
 
+<td align="center" width="36%" valign="top">
+
+### Frontend
+
+<img style="margin: 10px" src="assets/reactjs.svg" alt="React" title="React" height="50" />
+
+</td>
+
+<td align="center" valign="top">
+
+### Cloud & DevOps
+
+<img style="margin: 10px" src="assets/aws.svg" alt="AWS" title="AWS" height="50" />
+<img style="margin: 10px" src="assets/linux.svg" alt="Linux" title="Linux" height="50" />
+
+</td>
+
 </tr>
 </table>
 

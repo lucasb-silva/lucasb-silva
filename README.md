@@ -13,7 +13,7 @@
 <details open>
 <summary><small>EN-US</small></summary>
 
-👨‍💻 I started in "programming" by editing templates on personal blogs and for the community college prep course I attended. But I built a strong foundation in development during my technical course and college, which allowed me to create my first projects.
+👨‍💻 I started in "programming" by editing templates on personal blogs and for the pre-university community course I attended. But I built a strong foundation in development during my technical course and college, which allowed me to create my first projects.
 
 🐧 As a system administrator at Kyndryl, I've been able to deepen my knowledge of Linux systems and Shell Scripting over the last 3 years. In addition to supporting servers in on-premise (CentOS) and virtualization (vCenter) environments.
 

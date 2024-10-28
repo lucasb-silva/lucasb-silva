@@ -17,7 +17,7 @@
 
 🐧 As a system administrator at Kyndryl, I've been able to deepen my knowledge of Linux systems and Shell Scripting over the last 3 years. In addition to supporting servers in on-premise (CentOS) and virtualization (vCenter) environments.
 
-📚 I'm always looking for opportunities to learn and grow as a back-end developer. Currently, I'm diving deep into Java, Spring, SOLID principles, and cloud technologies. The learning journey is endless, and I'm excited to see where it will take me next.
+📚 I'm always looking for opportunities to learn and grow as a FullStack developer. Currently, I'm diving deep into Javascript, Node.js, React and cloud technologies. The learning journey is endless, and I'm excited to see where it will take me next.
 
 🎸 When I'm not coding or studying, you can find me playing the guitar, enjoying music, reading, or listening to podcasts. These diverse activities enrich my perspective and positively influence my progress as a developer.
 
@@ -34,7 +34,7 @@
 
 🐧 Como administrador de sistemas na Kyndryl, pude nos últmos 3 anos aprofundar meus conhecimentos sistemas Linux e Shell Scripting. Além de suportar servidores em ambientes on-premise (CentOS) e de virtualização (vCenter).
 
-📚 Estou sempre em busca de oportunidades para aprender e crescer como desenvolvedor back-end. Atualmente, estou mergulhando fundo em Java, Spring, princípios de SOLID e tecnologias de nuvem. A jornada de aprendizado é interminável, e estou empolgado para ver para onde ela me levará em seguida.
+📚 Estou sempre em busca de oportunidades para aprender e crescer como desenvolvedor FullStack. Atualmente, estou mergulhando fundo em Javascript, Node.js, React e tecnologias de nuvem. A jornada de aprendizado é interminável, e estou empolgado para ver para onde ela me levará em seguida.
 
 🎸 Quando não estou codificando ou estudando, você pode me encontrar tocando violão, curtindo música, lendo ou ouvindo podcasts. Essas atividades diversas enriquecem minha perspectiva e influenciam positivamente meu progresso como desenvolvedor.
 

@@ -51,7 +51,7 @@
 
 ## Technology Stack
 
-<table>
+<table align="center">
 
 <tr>
 <td align="center" width="36%" valign="top">

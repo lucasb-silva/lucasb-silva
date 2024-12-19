@@ -60,6 +60,7 @@
 
 <img style="margin: 10px" src="assets/java.svg" alt="Java" title="Java" height="50" />
 <img style="margin: 10px" src="assets/spring.svg" alt="Spring" title="Spring" height="50" />
+<img style="margin: 10px" src="assets/javascript.svg" alt="Javascript" title="Javascript" height="50" />
 <img style="margin: 10px" src="assets/nodejs.svg" alt="Node.js" title="Node.js" height="50" />
 
 </td>
@@ -78,6 +79,8 @@
 ### Frontend
 
 <img style="margin: 10px" src="assets/reactjs.svg" alt="React" title="React" height="50" />
+<img style="margin: 10px" src="assets/css3.svg" alt="css3" title="css3" height="50" />
+<img style="margin: 10px" src="assets/sass.svg" alt="sass" title="sass" height="50" />
 
 </td>
 
